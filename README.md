@@ -28,7 +28,7 @@
 - Check Run/Debug -> Launching -> Always launch the previously launched application
 
 #### Android
-- Set Verbose Android -> Build -> Build output
+- Set Normal Android -> Build -> Build output
 - Set Android -> DDMS -> Base local debugger port
 - Uncheck Android -> LogCat -> Monitor logcat for message from applications in workspace
 - Set Android -> NDK -> NDK Location
