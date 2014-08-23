@@ -1,3 +1,5 @@
+Download the latest version (4.4, 4.5, ...) of the Platform Runtime Binary from [here](http://download.eclipse.org/eclipse/downloads/).
+
 # eclipse.ini
 - Replaces all memory limits with 1024 and add "-Xverify:none" and "-XX:+UseSerialGC" to Eclipse.app/Contents/MacOS/eclipse.ini.
 
